@@ -14,4 +14,5 @@ New-word sites win on speed: find a term before search volume peaks, register th
 Local prototype, not a public service yet. Data is aggregated; raw source content is not redistributed.
 
 ## Contact
-<tracyyan30@gmail.com>
+## Contact
+tracyyan30@gmail.com
